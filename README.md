@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tariq Mahmud Siddiqui  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&width=600&lines=Learner+%7C+Developer+%7C+Creator;Exploring+Web+and+Mobile+Development;Always+Learning+New+Things...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&width=700&lines=Learner+%7C+Web+%26+App+Development+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
