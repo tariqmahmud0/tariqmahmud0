@@ -36,13 +36,13 @@
 ---
 
 ## 🐍 Futuristic Snake Contribution Graph  
-![snake gif](https://github.com/YOUR-USERNAME/tariqmahmud0/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/tariqmahmud0/tariqmahmud0/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
 ## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariqmahmud0)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tariqmahmud.rc621@gmail.com)  
 
 ---
 
