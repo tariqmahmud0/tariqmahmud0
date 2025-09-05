@@ -6,17 +6,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Kivy](https://img.shields.io/badge/Kivy-FF9900?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)  
-
----
-
 ## 📊 GitHub Stats & Activity  
 
 ![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqmahmud0&show_icons=true&theme=radical)  
@@ -24,19 +13,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tariqmahmud0&theme=highcontrast)  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tariqmahmud0&theme=react-dark)  
-
----
-
-## 🚀 Featured Projects  
-- [Personal Dictionary App](#) 📖  
-- [Bangla Voice Assistant](#) 🎙️  
-- [Finance Calculator](#) 💹  
-- [WebView Browser App](#) 🌐  
-
----
-
-## 🐍 Futuristic Snake Contribution Graph  
-![snake gif](https://github.com/tariqmahmud0/tariqmahmud0/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
